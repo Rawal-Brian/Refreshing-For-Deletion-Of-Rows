@@ -1,0 +1,7 @@
+[
+ {"companyID":"company_1","SelledID":"1a","SellerName":"sachin","SalesAmount":600,"OrderDate":"1/9/1997"},
+  {"companyID":"company_2","SelledID":"2a","SellerName":"kaviya","SalesAmount":2800,"OrderDate":"1/5/1997"},
+  {"companyID":"company_3","SelledID":"3a","SellerName":"abc","SalesAmount":200,"OrderDate":"1/8/1997"},
+   {"companyID":"company_4","SelledID":"4a","SellerName":"kaviyasffs","SalesAmount":1800,"OrderDate":"1/5/1997"},
+  {"companyID":"company_5","SelledID":"5a","SellerName":"abcsffss","SalesAmount":2000,"OrderDate":"1/8/1997"}
+]
