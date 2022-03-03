@@ -1,5 +1,5 @@
 [
- {"companyID":"company_3","SelledID":"3a","SellerName":"abc","SalesAmount":200,"OrderDate":"1/8/1997"},
+ {"companyID":"company_3","SelledID":"3a","Amount":"50","SellerName":"abc","SalesAmount":200,"OrderDate":"1/8/1997"},
  {"companyID":"company_3","SelledID":"3a","SellerName":"abc","SalesAmount":200,"OrderDate":"1/8/1997"},
  {"companyID":"company_3","SelledID":"3a","SellerName":"abc","SalesAmount":200,"OrderDate":"1/8/1997"},
  {"companyID":"company_3","SelledID":"3a","SellerName":"abc","SalesAmount":200,"OrderDate":"1/8/1997"},
